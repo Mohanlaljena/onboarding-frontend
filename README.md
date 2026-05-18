@@ -6,10 +6,10 @@ Frontend: https://onboarding-frontend.vercel.app
 Backend: https://your-railway-url.railway.app
 
 ## 👥 Team Members
-- Vishn - Frontend Developer
+- Monish - Frontend Developer
 - Mohan - Backend Developer
-- [Name] - Database
-- [Name] - UI/Testing
+- Nishanta - Database
+- Naveen - UI/Testing
 
 ## 🔑 Default Login
 - HR Login: hr@company.com / hr123456
